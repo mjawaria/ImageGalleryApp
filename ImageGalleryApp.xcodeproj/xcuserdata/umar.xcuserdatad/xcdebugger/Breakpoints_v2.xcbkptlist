@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A045497A-04E4-4DDE-82C8-C0763C52C124"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "4A57ADF8-09A7-4B79-AFA5-118015D60B06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0C2371D-3CEA-4EE0-A8F6-5EE979116A13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageGalleryApp/View/ImageGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B0C2371D-3CEA-4EE0-A8F6-5EE979116A13 - b39e71e7773e4f5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ImageGalleryApp.ImageData) -&gt; ImageGalleryApp.ImageDetailView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Identifiable, &#x3c4;_1_1: SwiftUI.View&gt;(item: SwiftUI.Binding&lt;Swift.Optional&lt;&#x3c4;_1_0&gt;&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in ImageGalleryApp.ImageGridView.body.getter : some"
+                  moduleName = "ImageGalleryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Battlebucks/FinalApp/ImageGalleryApp/ImageGalleryApp/View/ImageGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "B0C2371D-3CEA-4EE0-A8F6-5EE979116A13 - b39e71e7773e4f1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ImageGalleryApp.ImageData) -&gt; ImageGalleryApp.ImageDetailView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Identifiable, &#x3c4;_1_1: SwiftUI.View&gt;(item: SwiftUI.Binding&lt;Swift.Optional&lt;&#x3c4;_1_0&gt;&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in ImageGalleryApp.ImageGridView.body.getter : some"
+                  moduleName = "ImageGalleryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Battlebucks/FinalApp/ImageGalleryApp/ImageGalleryApp/View/ImageGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E90CCF57-7E9F-46D3-BFB1-9190DE4E3E01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageGalleryApp/View/ImageDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E90CCF57-7E9F-46D3-BFB1-9190DE4E3E01 - 9f94fef15937ad19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ImageGalleryApp.ImageDetailView.body.getter : some"
+                  moduleName = "ImageGalleryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Battlebucks/FinalApp/ImageGalleryApp/ImageGalleryApp/View/ImageDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "E90CCF57-7E9F-46D3-BFB1-9190DE4E3E01 - 9f94fef15937ad66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ImageGalleryApp.ImageDetailView.body.getter : some"
+                  moduleName = "ImageGalleryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Battlebucks/FinalApp/ImageGalleryApp/ImageGalleryApp/View/ImageDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "E90CCF57-7E9F-46D3-BFB1-9190DE4E3E01 - 9f94fef15937ad66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ImageGalleryApp.ImageDetailView.body.getter : some"
+                  moduleName = "ImageGalleryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Battlebucks/FinalApp/ImageGalleryApp/ImageGalleryApp/View/ImageDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
